@@ -16,9 +16,7 @@ struct ContentView: View {
         NavigationView {
             List {
                 ForEach(menu) { section in
-                    Text("Hello World")
-                    Text("Hello World")
-                    Text("Hello World")
+                    Text(section.name)
                 }
             }.navigationBarTitle("Menu")
         }
