@@ -30,7 +30,7 @@ struct ItemRow: View {
                 Text(item.name)
                     .font(.headline)
                 Text("$\(item.price)")
-            }
+            }.layoutPriority(1)
             
             Spacer()
             
