@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		958758D8233F66D900F2B216 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958758D7233F66D900F2B216 /* OrderView.swift */; };
 		958A3CF4233E446B0031C6B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3CF3233E446B0031C6B0 /* AppDelegate.swift */; };
 		958A3CF6233E446B0031C6B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3CF5233E446B0031C6B0 /* SceneDelegate.swift */; };
 		958A3CF8233E446B0031C6B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3CF7233E446B0031C6B0 /* ContentView.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		958758D7233F66D900F2B216 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		958A3CF0233E446B0031C6B0 /* IDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		958A3CF3233E446B0031C6B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		958A3CF5233E446B0031C6B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				958A3CF7233E446B0031C6B0 /* ContentView.swift */,
 				958A3D0F233E4ABA0031C6B0 /* ItemRow.swift */,
 				958A3D11233E50990031C6B0 /* ItemDetail.swift */,
+				958758D7233F66D900F2B216 /* OrderView.swift */,
 				958A3D0D233E45210031C6B0 /* menu.json */,
 				958A3CF9233E446C0031C6B0 /* Assets.xcassets */,
 				958A3CFE233E446C0031C6B0 /* LaunchScreen.storyboard */,
@@ -171,6 +174,7 @@
 				958A3D10233E4ABA0031C6B0 /* ItemRow.swift in Sources */,
 				958A3CF8233E446B0031C6B0 /* ContentView.swift in Sources */,
 				958A3D12233E50990031C6B0 /* ItemDetail.swift in Sources */,
+				958758D8233F66D900F2B216 /* OrderView.swift in Sources */,
 				958A3D0A233E44F10031C6B0 /* Helper.swift in Sources */,
 				958A3D0B233E44F10031C6B0 /* Menu.swift in Sources */,
 			);
