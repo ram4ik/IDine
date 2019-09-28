@@ -1,0 +1,7 @@
+Customize the "Order This" button with a custom font, background and more.
+
+Add "Pickup time" to CheckoutView, with the options "Now", "Tonight" and "Tomorrow Morning".
+
+Add a Favorite navigation bar item to ItemDetail and a Favorites tab showing them all.
+
+
