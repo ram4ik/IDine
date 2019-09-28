@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		958758D8233F66D900F2B216 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958758D7233F66D900F2B216 /* OrderView.swift */; };
 		958758DA233F6FDF00F2B216 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958758D9233F6FDF00F2B216 /* AppView.swift */; };
+		958758DC233F739400F2B216 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958758DB233F739400F2B216 /* CheckoutView.swift */; };
 		958A3CF4233E446B0031C6B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3CF3233E446B0031C6B0 /* AppDelegate.swift */; };
 		958A3CF6233E446B0031C6B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3CF5233E446B0031C6B0 /* SceneDelegate.swift */; };
 		958A3CF8233E446B0031C6B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3CF7233E446B0031C6B0 /* ContentView.swift */; };
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		958758D7233F66D900F2B216 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		958758D9233F6FDF00F2B216 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		958758DB233F739400F2B216 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		958A3CF0233E446B0031C6B0 /* IDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		958A3CF3233E446B0031C6B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		958A3CF5233E446B0031C6B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				958A3D11233E50990031C6B0 /* ItemDetail.swift */,
 				958758D7233F66D900F2B216 /* OrderView.swift */,
 				958758D9233F6FDF00F2B216 /* AppView.swift */,
+				958758DB233F739400F2B216 /* CheckoutView.swift */,
 				958A3D0D233E45210031C6B0 /* menu.json */,
 				958A3CF9233E446C0031C6B0 /* Assets.xcassets */,
 				958A3CFE233E446C0031C6B0 /* LaunchScreen.storyboard */,
@@ -172,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				958A3D0C233E44F10031C6B0 /* Order.swift in Sources */,
+				958758DC233F739400F2B216 /* CheckoutView.swift in Sources */,
 				958A3CF4233E446B0031C6B0 /* AppDelegate.swift in Sources */,
 				958A3CF6233E446B0031C6B0 /* SceneDelegate.swift in Sources */,
 				958A3D10233E4ABA0031C6B0 /* ItemRow.swift in Sources */,
